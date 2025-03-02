@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/17a78b4f-d2c0-4229-8bab-9f33d5ef72e7)# Epigenetics 2025
+# Epigenetics 2025
 [**00.0 Introduction to the course "Epigenetics 2025" [Loi] - 01/3/2025**](Lecture_00/) \
 [**00.1 Epigenetics, Epigenomics and its applications [Loi] - 01/3/2025**](Lecture_00/)
 
