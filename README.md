@@ -26,9 +26,9 @@
 [**08.0 Mechanisms of epigenetic control during development [Loi] - 26/4/2025**](Lecture_08/) \
 [**08.1 Mining Gene expression GTEX and ENCODE database [Hung/Thanh/Kim] - 26/4/2025**](Lecture_08/) 
 
-[**09 Mechanisms of epigenetic control in plant [Nguyen] - 03/5/2025**](Lecture_09/) \
+[**09 Mechanisms of epigenetic control in plant [Nguyen] - 03/5/2025**](Lecture_09/)
 
-[**10 Mechanisms of epigenetic control in plant [Nguyen] - 10/5/2025**](Lecture_10/) \
+[**10 Mechanisms of epigenetic control in plant [Nguyen] - 10/5/2025**](Lecture_10/)
 
 [**11.0 Epigenetics and human disease development [Loi] - 17/5/2025**](Lecture_11/) \
 [**11.1 Mining BLUEPRINT and TCGA database [Minh] - 17/5/2025**](Lecture_11/) 
