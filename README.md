@@ -1,9 +1,9 @@
 # Epigenetics 2025
 [**00.0 Introduction to the course "Epigenetics 2025" [Loi] - 01/3/2025**](Lecture_00/Epigenetics_lecture_overview.pdf) \
-[**00.1 Epigenetics, Epigenomics and its applications [Loi] - 01/3/2025**](Lecture_00/Epigenetics_Lecture_00_20250301.pdf)
+[**00.1 Epigenetics, Epigenomics and Its Applications [Loi] - 01/3/2025**](Lecture_00/Epigenetics_Lecture_00_20250301.pdf)
 
-[**01.0 Introduction and overview of Epigenetics [Loi] - 08/3/2025**](Lecture_01/) \
-[**01.1 Basic Bash script and Awk [Hung/Thanh/Kim] - 08/3/2025**](Lecture_01/)
+[**01.0 Introduction and Overview of Epigenetics [Loi] - 08/3/2025**](Lecture_01/) \
+[**01.1 Basic Bash Script and Awk [Hung/Thanh/Kim] - 08/3/2025**](Lecture_01/)
 
 [**02.0 Chromatin based epigenetic control I [Loi] - 15/3/2025**](Lecture_02/) \
 [**02.1 Basic programing with R [Hung/Thanh/Kim] - 15/3/2025**](Lecture_02/)
@@ -11,7 +11,7 @@
 [**03.0 Chromatin based epigenetic control II [Loi] - 22/3/2025**](Lecture_03/) \
 [**03.1 Statistical analysis with R [Hung/Thanh/Kim] - 22/3/2025**](Lecture_03/)
 
-[**04.0 Histone modifications, TFBSs, DNAaseI Hypersensitivity and ATAC-seq analysis [Loi] - 29/3/2025**](Lecture_04/) \
+[**04.0 Histone modifications, TFBSs, DNAaseI Hypersensitivity and ATAC-seq Analysis [Loi] - 29/3/2025**](Lecture_04/) \
 [**04.1 Hands-on: Deeptools, featurecount and DESeq2 [Tam/Minh] - 29/3/2025**](Lecture_04/)
 
 [**05.0 DNA-methylation and epigenetic control [Loi] - 05/4/2025**](Lecture_05/) \
@@ -24,14 +24,14 @@
 [**07.1 Visualizing epigenomics with UCSC Genome Browser [Hung/Thanh/Kim] - 19/4/2025**](Lecture_07/)
 
 [**08.0 Mechanisms of epigenetic control during development [Loi] - 26/4/2025**](Lecture_08/) \
-[**08.1 Mining Gene expression GTEX, Epigenome Roadmap and ENCODE [Hung/Thanh/Kim] - 26/4/2025**](Lecture_08/) 
+[**08.1 Mining Gene Expression GTEX, Epigenome Roadmap and ENCODE [Hung/Thanh/Kim] - 26/4/2025**](Lecture_08/) 
 
-[**09.0 Epigenetics and human disease development [Loi] - 03/5/2025**](Lecture_11/) \
+[**09.0 Epigenetics and Human Disease Development [Loi] - 03/5/2025**](Lecture_11/) \
 [**09.1 Mining BLUEPRINT and TCGA database [Minh] - 03/5/2025**](Lecture_11/) 
 
-[**09 Mechanisms of epigenetic control in plant I [Nguyen] - 10/5/2025**](Lecture_09/)
+[**10 Mechanisms of epigenetic control in plant I [Nguyen] - 10/5/2025**](Lecture_09/)
 
-[**10 Mechanisms of epigenetic control in plant II [Nguyen] - 17/5/2025**](Lecture_10/)
+[**11 Mechanisms of epigenetic control in plant II [Nguyen] - 17/5/2025**](Lecture_10/)
 
 [**12.0 Epigenetic Biomarkers and epigenetic therapy [Loi] - 24/5/2025**](Lecture_12/) \
 [**12.1 Course Review [Loi] - 24/5/2025**](Lecture_12/)
