@@ -24,7 +24,7 @@
 [**07.1 Visualizing epigenomics with UCSC Genome Browser [Hung/Thanh/Kim] - 19/4/2025**](Lecture_07/)
 
 [**08.0 Mechanisms of epigenetic control during development [Loi] - 26/4/2025**](Lecture_08/) \
-[**08.1 Mining Gene expression GTEX and ENCODE database [Hung/Thanh/Kim] - 26/4/2025**](Lecture_08/) 
+[**08.1 Mining Gene expression GTEX, Epigenome Roadmap and ENCODE [Hung/Thanh/Kim] - 26/4/2025**](Lecture_08/) 
 
 [**09 Mechanisms of epigenetic control in plant I [Nguyen] - 03/5/2025**](Lecture_09/)
 
