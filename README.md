@@ -1,6 +1,6 @@
 # Epigenetics 2025
 [**00.0 Introduction to the course "Epigenetics 2025" [Loi] - 01/3/2025**](Lecture_00/Epigenetics_lecture_overview.pdf) \
-[**00.1 Epigenetics, Epigenomics and its applications [Loi] - 01/3/2025**](Lecture_00/)
+[**00.1 Epigenetics, Epigenomics and its applications [Loi] - 01/3/2025**](Lecture_00/Epigenetics_Lecture_00_20250301.pdf)
 
 [**01.0 Introduction and overview of Epigenetics [Loi] - 08/3/2025**](Lecture_01/) \
 [**01.1 Basic Bash script and Awk [Hung/Thanh/Kim] - 08/3/2025**](Lecture_01/)
