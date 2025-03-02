@@ -1,6 +1,6 @@
 # Epigenetics 2025
-## Saturday, 8 to 11 AM
-## F305, 227 Nguyen Van Cu st, Dist. 5, HCM city 
+#### Saturday, 8 to 11 AM
+#### F305, 227 Nguyen Van Cu st, Dist. 5, HCM city 
 
 [**00.0 Introduction to the course "Epigenetics 2025" [Loi] - 01/3/2025**](Lecture_00/Epigenetics_lecture_overview.pdf) \
 [**00.1 Epigenetics, Epigenomics and Its Applications [Loi] - 01/3/2025**](Lecture_00/Epigenetics_Lecture_00_20250301.pdf)
