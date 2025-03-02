@@ -17,7 +17,7 @@
 [**05.0 DNA-methylation and epigenetic control [Loi] - 05/4/2025**](Lecture_05/) \
 [**05.1 Data visualization with R [Hung/Thanh/Kim] - 05/4/2025**](Lecture_05/)
 
-[**06.0 DNA methylation analysis with Bioconductor [Thien/Hoang] - 12/4/2025**](Lecture_06/) \
+[**06.0 DNA methylation analysis with DMRcate [Thien/Hoang] - 12/4/2025**](Lecture_06/) \
 [**06.1 DNA methylation visualization with IGV [Hung/Thanh/Kim] - 12/4/2025**](Lecture_06/)
 
 [**07.0 Non-coding long and small RNAs in epigenetic control [Loi] - 19/4/2025**](Lecture_07/) \
