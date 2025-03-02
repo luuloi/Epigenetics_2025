@@ -9,7 +9,7 @@
 [**02.1 Basic programing with R [Hung/Thanh/Kim] - 15/3/2025**](Lecture_02/)
 
 [**03.0 Chromatin based epigenetic control II [Loi] - 22/3/2025**](Lecture_03/) \
-[**03.1 Statistic analysis with R [Hung/Thanh/Kim] - 22/3/2025**](Lecture_03/)
+[**03.1 Statistical analysis with R [Hung/Thanh/Kim] - 22/3/2025**](Lecture_03/)
 
 [**04.0 Histone modification, transcription factor binding sites, DNAase I Hypersensitivity and ATAC-seq analysis [Loi] - 29/3/2025**](Lecture_04/) \
 [**04.1 Hands-on: Deeptools, featurecount and DESeq2 [Tam/Minh] - 29/3/2025**](Lecture_04/)
