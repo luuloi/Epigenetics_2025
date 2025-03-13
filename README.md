@@ -10,10 +10,10 @@
   Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15-DWYs2h56gc1aUwzkbzw74Et0L4pd5J?usp=sharing)
   
 [**02.0 Chromatin based epigenetic control I [Loi] - 15/3/2025**](Lecture_02/) \
-[**02.1 Basic programing with R [Hung/Thanh/Kim] - 15/3/2025**](Lecture_02/)
+[**02.1 Basic programing with R [Huy] - 15/3/2025**](Lecture_02/)
 
 [**03.0 Chromatin based epigenetic control II [Loi] - 22/3/2025**](Lecture_03/) \
-[**03.1 Statistical analysis with R [Hung/Thanh/Kim] - 22/3/2025**](Lecture_03/)
+[**03.1 Statistical analysis with R [Huy] - 22/3/2025**](Lecture_03/)
 
 [**04.0 Histone modifications, TFBSs, DNAaseI Hypersensitivity and ATAC-seq Analysis [Loi] - 29/3/2025**](Lecture_04/) \
 [**04.1 Hands-on: Deeptools, featurecount and DESeq2 [Tam/Minh] - 29/3/2025**](Lecture_04/)
