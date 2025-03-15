@@ -19,13 +19,13 @@
 [**04.1 Hands-on: Deeptools, featurecount and DESeq2 [Tam/Minh] - 29/3/2025**](Lecture_04/)
 
 [**05.0 DNA-methylation and epigenetic control [Loi] - 05/4/2025**](Lecture_05/) \
-[**05.1 Data visualization with R [Hung/Thanh/Kim] - 05/4/2025**](Lecture_05/)
+[**05.1 Data visualization with R [Thanh] - 05/4/2025**](Lecture_05/)
 
 [**06.0 DNA methylation analysis with DMRcate [Thien/Hoang] - 12/4/2025**](Lecture_06/) \
 [**06.1 DNA methylation visualization with IGV [Kim] - 12/4/2025**](Lecture_06/)
 
 [**07.0 Non-coding long and small RNAs in epigenetic control [Loi] - 19/4/2025**](Lecture_07/) \
-[**07.1 Visualizing epigenomics with UCSC Genome Browser [Hung] - 19/4/2025**](Lecture_07/)
+[**07.1 Visualizing epigenomics with UCSC Genome Browser [Thanh] - 19/4/2025**](Lecture_07/)
 
 [**08.0 Mechanisms of epigenetic control during development [Loi] - 26/4/2025**](Lecture_08/) \
 [**08.1 Mining Gene Expression GTEX, Epigenome Roadmap and ENCODE [Hung] - 26/4/2025**](Lecture_08/) 
