@@ -25,10 +25,10 @@
 [**06.1 DNA methylation visualization with IGV [Kim] - 12/4/2025**](Lecture_06/)
 
 [**07.0 Non-coding long and small RNAs in epigenetic control [Loi] - 19/4/2025**](Lecture_07/) \
-[**07.1 Visualizing epigenomics with UCSC Genome Browser [Hung/Thanh/Kim] - 19/4/2025**](Lecture_07/)
+[**07.1 Visualizing epigenomics with UCSC Genome Browser [Hung] - 19/4/2025**](Lecture_07/)
 
 [**08.0 Mechanisms of epigenetic control during development [Loi] - 26/4/2025**](Lecture_08/) \
-[**08.1 Mining Gene Expression GTEX, Epigenome Roadmap and ENCODE [Hung/Thanh/Kim] - 26/4/2025**](Lecture_08/) 
+[**08.1 Mining Gene Expression GTEX, Epigenome Roadmap and ENCODE [Hung] - 26/4/2025**](Lecture_08/) 
 
 [**09.0 Epigenetics and Human Disease Development [Loi] - 03/5/2025**](Lecture_11/) \
 [**09.1 Mining BLUEPRINT and TCGA database [Minh] - 03/5/2025**](Lecture_11/) 
