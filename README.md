@@ -11,9 +11,13 @@
   
 [**02.0 Chromatin based epigenetic control I [Loi] - 15/3/2025**](Lecture_02/) \
 [**02.1 Basic programing with R [Huy] - 15/3/2025**](Lecture_02/)
+- [PPTX](https://docs.google.com/presentation/d/1sQw0cibVatuXo0ReFGls_dv2DlFtnVJSfE33rWGeRLI/edit?usp=sharing)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nfexzcugXV5ZFSobajMOrDqDOjwMouFy?usp=sharing)
 
 [**03.0 Chromatin based epigenetic control II [Loi] - 22/3/2025**](Lecture_03/) \
 [**03.1 Statistical analysis with R [Huy] - 22/3/2025**](Lecture_03/)
+- [PPTX](https://docs.google.com/presentation/d/18oGjXgykTA91DXay7zQNZkJvnIJmnQ2a/edit?usp=sharing&ouid=100344220632265055706&rtpof=true&sd=true)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing)
 
 [**04.0 Histone modifications, TFBSs, DNAaseI Hypersensitivity and ATAC-seq Analysis [Loi] - 29/3/2025**](Lecture_04/) \
 [**04.1 Hands-on: Deeptools, featurecount and DESeq2 [Tam/Minh] - 29/3/2025**](Lecture_04/)
