@@ -6,6 +6,9 @@
 [**00.1 Epigenetics, Epigenomics and Its Applications [Loi] - 01/3/2025**](Lecture_00/Epigenetics_Lecture_00_20250301.pdf)
 
 [**01.0 Principles of Epigenetics  [Loi] - 08/3/2025**](Lecture_01/Lecture_01_Principles_of_Epigenetics_2025March08.pdf) \
+- Definition of Epigenetics
+- Impact for developmental biology, cell biology, genetics, functional genomics and biomedical research
+- Short introduction into the various types of epigenetic modifications and their interrelation 
 [**01.1 Basic Bash Script and Awk [Thanh] - 08/3/2025**](https://docs.google.com/presentation/d/1ESVP6DhZzJg4d9Y1Doh9WU86jGKXjueOXbtGlPDhck0/edit?usp=sharing) \
   Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15-DWYs2h56gc1aUwzkbzw74Et0L4pd5J?usp=sharing) &emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1muvm1a_n5o8ikJb_nzKm2x8_banz0vN9?usp=sharing)
   
