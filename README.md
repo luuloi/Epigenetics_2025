@@ -9,7 +9,7 @@
 [**01.1 Basic Bash Script and Awk [Thanh] - 08/3/2025**](https://docs.google.com/presentation/d/1ESVP6DhZzJg4d9Y1Doh9WU86jGKXjueOXbtGlPDhck0/edit?usp=sharing) \
   Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15-DWYs2h56gc1aUwzkbzw74Et0L4pd5J?usp=sharing) &emsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1muvm1a_n5o8ikJb_nzKm2x8_banz0vN9?usp=sharing)
   
-[**02.0 Chromatin based epigenetic control I [Loi] - 15/3/2025**](Lecture_02/) \
+[**02.0 Chromatin based epigenetic control I [Loi] - 15/3/2025**](Lecture_02/Lecture_02_Chromatin_I_2025March15.pdf) \
 [**02.1 Basic programing with R [Huy] - 15/3/2025**](Lecture_02/)
 - [PPTX](https://docs.google.com/presentation/d/1sQw0cibVatuXo0ReFGls_dv2DlFtnVJSfE33rWGeRLI/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nfexzcugXV5ZFSobajMOrDqDOjwMouFy?usp=sharing)
