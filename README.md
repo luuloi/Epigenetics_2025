@@ -14,7 +14,7 @@
 - [PPTX](https://docs.google.com/presentation/d/1sQw0cibVatuXo0ReFGls_dv2DlFtnVJSfE33rWGeRLI/edit?usp=sharing)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nfexzcugXV5ZFSobajMOrDqDOjwMouFy?usp=sharing)
 
-[**03.0 Chromatin based epigenetic control II [Loi] - 22/3/2025**](Lecture_03/) \
+[**03.0 Chromatin based epigenetic control II [Loi] - 22/3/2025**](Lecture_03/Lecture_03_Chromatin_II_2025March21.pdf) \
 [**03.1 Statistical analysis with R [Huy] - 22/3/2025**](Lecture_03/)
 - [PPTX](https://docs.google.com/presentation/d/18oGjXgykTA91DXay7zQNZkJvnIJmnQ2a/edit?usp=sharing&ouid=100344220632265055706&rtpof=true&sd=true)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing)
