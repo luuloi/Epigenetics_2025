@@ -19,7 +19,7 @@
 - [PPTX](https://docs.google.com/presentation/d/18oGjXgykTA91DXay7zQNZkJvnIJmnQ2a/edit?usp=sharing&ouid=100344220632265055706&rtpof=true&sd=true)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EB90siBp9USSdRPQILVuVgAXkW3SvyjI?usp=sharing)
 
-[**04.0 Hi-C and ChIP-seq for Histone modifications, TFBSs, DNAaseI Hypersensitivity and ATAC-seq Analysis [Loi] - 29/3/2025**](Lecture_04/) \
+[**04.0 Hi-C and ChIP-seq for Histone modifications, TFBSs, DNAaseI Hypersensitivity and ATAC-seq Analysis [Loi] - 29/3/2025**](Lecture_04/Lecture_04_2025March29.pdf) \
 [**04.1 Hands-on: Deeptools, featurecount and DESeq2 [Tam/Minh] - 29/3/2025**](Lecture_04/)
 
 [**05.0 DNA-methylation and epigenetic control [Loi] - 05/4/2025**](Lecture_05/) \
