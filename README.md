@@ -23,6 +23,7 @@
 [**04.1 Hands-on: Deeptools and CSAW [Tam] - 29/3/2025**](Lecture_04/)
 - [PPTX: Deeptools and CSAW](https://docs.google.com/presentation/d/13yffI7wHcu8j1FLx3DIAugzarE61tvI6/edit?usp=sharing&ouid=109874540725295450041&rtpof=true&sd=true)
 - Practice: deeptools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BRaSW_I9um9wmPhHzutxk1p-ceBleTCc?usp=sharing), csaw[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19WNS2pn6DCV1pqVBWF5F_1cV6kqx6-0x?usp=sharing), [Datasets for deeptools/csaw](https://drive.google.com/drive/folders/1yCi3g2NEgG8PT4zGIFwEv_RitvDElw3f?usp=sharing)
+- [Zoom link](https://www.google.com/url?q=https://us05web.zoom.us/j/81627974408?pwd%3DaoHgLExuiaWhezmn0IQzz8dmUNBkh6.1&sa=D&source=calendar&usd=2&usg=AOvVaw2SEzvhspcGn6t59ROk9yhY)
 
 [**05.0 DNA-methylation and epigenetic control [Loi] - 05/4/2025**](Lecture_05/) \
 [**05.1 Data visualization with R [Tuan Thanh] - 05/4/2025**](Lecture_05/)
