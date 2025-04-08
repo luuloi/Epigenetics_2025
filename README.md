@@ -32,7 +32,12 @@
 - [Dataset for homework](https://drive.google.com/drive/folders/1Rv2T07IssbvdgIbnV40ZXuiNWYCJnO5h?usp=sharing)
 Here is BAM files and gene regions for chr19. Please download these datasets and replicate the codes provided in the lecture (Datasets used for lecture are of chr22).
 
-[**05.0 DNA-methylation and epigenetic control [Loi] - 05/4/2025**](Lecture_05/Lecture_05_DNA_methylation_2025April04.pdf) \
+[**05.0 DNA-methylation and epigenetic control [Loi] - 05/4/2025**](Lecture_05/Lecture_05_DNA_methylation_2025April04.pdf)
+- [Exercise 1. Explain Figure 5 in the paper](https://link.springer.com/article/10.1186/s13059-022-02728-5/figures/5)
+- [Exercise 2. Explain Figure 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-3-uid-2)
+- [Exercise 3. Explain Figure 4 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-4-uid-3)
+- [Exercise 4. Explain Figure 5 in the paper](https://pubmed.ncbi.nlm.nih.gov/37824674/#&gid=article-figures&pid=figure-5-uid-4)
+  
 [**05.1 Data visualization with R [Tuan Thanh] - 05/4/2025**](https://docs.google.com/presentation/d/1d8GIjCEl7dUh-BvDJ5GLbTSj7MlbhaAPmgiYpMFhGHQ/edit?usp=sharing)
 
 [**06.0 DNA methylation analysis with DMRcate [Thien/Hoang] - 12/4/2025**](Lecture_06/) \
