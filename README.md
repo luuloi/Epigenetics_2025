@@ -56,7 +56,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 [**09.0 Epigenetics and Human Disease [Loi] - 03/5/2025**](Lecture_11/) \
 [**09.1 Mining BLUEPRINT and TCGA database [Hung] - 03/5/2025**](Lecture_11/) 
 
-[**10.0 Epigenetic Biomarkers and epigenetic therapy [Loi] - 10/5/2025**](Lecture_10/) \
+[**10.0 Epigenetic Biomarkers and Epigenetic Therapy [Loi] - 10/5/2025**](Lecture_10/) \
 [**10.1 Course Review [Loi] - 24/5/2025**](Lecture_10/)
 
 [**11. Mechanisms of epigenetic control in plant I [Nguyen] - 17/5/2025**](Lecture_11/)
