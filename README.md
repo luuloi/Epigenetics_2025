@@ -42,7 +42,8 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 [**05.1 Data visualization with R [Tuan Thanh] - 05/4/2025**](https://docs.google.com/presentation/d/1d8GIjCEl7dUh-BvDJ5GLbTSj7MlbhaAPmgiYpMFhGHQ/edit?usp=sharing)
 
 [**06.0 DNA methylation analysis with DMRcate [Thien/Hoang] - 12/4/2025**](Lecture_06/) 
-- [LINK](https://drive.google.com/drive/u/0/folders/1HznXe7mWZP8O2UyuCKQ6P6wlZOGG3Tlk)
+- [Data - LINK1](https://drive.google.com/drive/u/0/folders/1HznXe7mWZP8O2UyuCKQ6P6wlZOGG3Tlk)
+- [Data.gzip - LINK2](https://drive.google.com/drive/folders/1e20QN3gAxuhVtW8N4ACwzq06Y9elZZA5?usp=sharing)
 
 [**06.1 DNA methylation visualization with IGV [Kim] - 12/4/2025**](Lecture_06/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing)
