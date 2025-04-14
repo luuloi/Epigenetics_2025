@@ -44,6 +44,10 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 [**06.0 DNA methylation analysis with DMRcate [Thien/Hoang] - 12/4/2025**](Lecture_06/) 
 - [Data - LINK1](https://drive.google.com/drive/u/0/folders/1HznXe7mWZP8O2UyuCKQ6P6wlZOGG3Tlk)
 - [Data.gz - LINK2](https://drive.google.com/drive/folders/1e20QN3gAxuhVtW8N4ACwzq06Y9elZZA5?usp=sharing)
+- 00.Install_packages: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1STyYmFZ9C2MXuZ-ukaRBX_dLP9iy5zTi?usp=sharing)
+- 01.GSE2IDAT_&_IDAT2Table: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NyETDEQA0Q3P3nMAhoVDEhHcs05ru0lq?usp=sharing)
+- 02.DMRcate: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MKA14XC7laeRET_5HfHkxKVmbGFW3aJ3?usp=sharing)
+- 03.Plotting: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BPod-aYReYvQqETqA2bTJIakoEkrAhJh?usp=sharing)
 - 04.Annotation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wAdjbi-1kV7BhXF0wIbhEXp10QXoyCHj?usp=sharing)
 - 05.Gene ontology analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12fUhTO6B7HvkgnfnJVqREoxm0VRL9byJ?usp=sharing)
 
