@@ -44,11 +44,11 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 [**06.0 DNA methylation analysis with DMRcate [Thien/Hoang] - 12/4/2025**](Lecture_06/) 
 - [Data - LINK1](https://drive.google.com/drive/u/0/folders/1HznXe7mWZP8O2UyuCKQ6P6wlZOGG3Tlk)
 - [Data.gz - LINK2](https://drive.google.com/drive/folders/1e20QN3gAxuhVtW8N4ACwzq06Y9elZZA5?usp=sharing)
-- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-
-[**06.1 DNA methylation visualization with IGV [Kim] - 12/4/2025**](Lecture_06/)
 - 04.Annotation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wAdjbi-1kV7BhXF0wIbhEXp10QXoyCHj?usp=sharing)
 - 05.Gene ontology analysis: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12fUhTO6B7HvkgnfnJVqREoxm0VRL9byJ?usp=sharing)
+
+[**06.1 DNA methylation visualization with IGV [Kim] - 12/4/2025**](Lecture_06/)
+- Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing)
   
 [**07.0 Non-coding long and small RNAs in epigenetic control [Loi] - 19/4/2025**](Lecture_07/) \
 [**07.1 ENCODE database and Visualizing epigenomics with UCSC Genome Browser [Tuan Thanh] - 19/4/2025**](Lecture_07/)
