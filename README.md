@@ -54,7 +54,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 [**06.1 DNA methylation visualization with IGV [Kim] - 12/4/2025**](Lecture_06/)
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing)
   
-[**07.0 Non-coding long and small RNAs in epigenetic control [Loi] - 19/4/2025**](Lecture_07/) \
+[**07.0 Non-coding long and small RNAs in epigenetic control [Loi] - 19/4/2025**](Lecture_07/Lecture_07_RNAs_Epigenetic_control_2025April19.pdf) \
 - [Exercise 1. Explain Figure 1 to 8 in the paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1271-4/figures/1)
 - [Exercise 2. Explain Figure 4 in the paper](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-019-0740-z/figures/4)
 - [Exercise 3. Explain Figure 3 in the paper](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01403-7/figures/3)
