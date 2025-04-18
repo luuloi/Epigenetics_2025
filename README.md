@@ -56,7 +56,9 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
   
 [**07.0 Non-coding long and small RNAs in epigenetic control [Loi] - 19/4/2025**](Lecture_07/) \
 [**07.1 ENCODE database and Visualizing epigenomics with UCSC Genome Browser [Tuan Thanh] - 19/4/2025**](Lecture_07/)
-
+- [ENCODE database](https://www.encodeproject.org/)
+- [UCSC Genome Browser](https://genome.ucsc.edu/)
+  
 [**08.0 Mechanisms of epigenetic control during development [Loi] - 26/4/2025**](Lecture_08/) \
 [**08.1 Mining Gene Expression GTEX and Epigenome Roadmap [Hung] - 26/4/2025**](Lecture_08/) 
 
