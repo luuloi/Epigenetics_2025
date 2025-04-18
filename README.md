@@ -55,6 +55,12 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - Practice: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C1TPOLY5TvYufHYCfU0_EEi9YFLqUVwY?usp=sharing)
   
 [**07.0 Non-coding long and small RNAs in epigenetic control [Loi] - 19/4/2025**](Lecture_07/) \
+- [Exercise 1. Explain Figure 1 to 8 in the paper](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-1271-4/figures/1)
+- [Exercise 2. Explain Figure 4 in the paper](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-019-0740-z/figures/4)
+- [Exercise 3. Explain Figure 3 in the paper](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-022-01403-7/figures/3)
+- [Exercise 4. Explain Figure 4 in the paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2845-y/figures/4)
+- [Exercise 5. Explain Figure 2, 4 and 5 in the paper](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-016-0079-z/figures/2)
+  
 [**07.1 ENCODE database and Visualizing epigenomics with UCSC Genome Browser [Tuan Thanh] - 19/4/2025**](Lecture_07/)
 - [ENCODE database](https://www.encodeproject.org/)
 - [UCSC Genome Browser](https://genome.ucsc.edu/)
