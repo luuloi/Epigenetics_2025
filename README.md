@@ -78,9 +78,12 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 
 ***Epigenetics in Development***
 
-[***Epigenetic Basis for the Differentiation Potential of Mesenchymal and Embryonic Stem Cells***](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083288/)
+- [Epigenetic Basis for the Differentiation Potential of Mesenchymal and Embryonic Stem Cells](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083288/)
 
 ***Class Exercises***
+- [Exercise 1. Explain the Figure 2 ](https://bmjopen.bmj.com/content/bmjopen/2/2/e000825/F2.large.jpg) [ in the paper](https://bmjopen.bmj.com/content/2/2/e000825)
+- [Exercise 2. Explain the Figure 1 in the paper](https://www.jpatholtm.org/journal/view.php?number=17020)
+- [Exercise 3. Explain the Figure 1 ](https://journals.plos.org/plosone/article/figures?id=10.1371/journal.pone.0101588)[in the paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101588)
 
 [**08.1 Mining Gene Expression GTEX and Epigenome Roadmap [Hung] - 26/4/2025**](Lecture_08/) 
 
