@@ -63,6 +63,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [Exercise 5. Explain Figure 2, 4 and 5 in the paper](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-016-0079-z/figures/2)
   
 [**07.1 ENCODE database and Visualizing epigenomics with UCSC Genome Browser [Tuan Thanh] - 19/4/2025**](Lecture_07/)
+- [PPTXT](https://github.com/luuloi/Epigenetics_2025/tree/main/Lecture_07)
 - [ENCODE database](https://www.encodeproject.org/)
 - [UCSC Genome Browser](https://genome.ucsc.edu/)
   
