@@ -40,7 +40,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [Exercise 5. Explain Figure 2 & 3 in the paper](https://pubmed.ncbi.nlm.nih.gov/22902559/#&gid=article-figures&pid=figure-2-uid-2)
   
 [**05.1 Data visualization with R [Tuan Thanh] - 05/4/2025**](https://docs.google.com/presentation/d/1d8GIjCEl7dUh-BvDJ5GLbTSj7MlbhaAPmgiYpMFhGHQ/edit?usp=sharing)
-- [PPTX](https://github.com/luuloi/Epigenetics_2025/tree/main/Lecture_05)
+- [PPTX](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_05/Data%20visualization%20with%20R.pptx)
 
 [**06.0 DNA methylation analysis with DMRcate [Thien/Hoang] - 12/4/2025**](Lecture_06/) 
 - [Data - LINK1](https://drive.google.com/drive/u/0/folders/1HznXe7mWZP8O2UyuCKQ6P6wlZOGG3Tlk)
@@ -63,7 +63,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [Exercise 5. Explain Figure 2, 4 and 5 in the paper](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-016-0079-z/figures/2)
   
 [**07.1 ENCODE database and Visualizing epigenomics with UCSC Genome Browser [Tuan Thanh] - 19/4/2025**](Lecture_07/)
-- [PPTXT](https://github.com/luuloi/Epigenetics_2025/tree/main/Lecture_07)
+- [PPTX]([https://github.com/luuloi/Epigenetics_2025/tree/main/Lecture_07](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_07/ENCODE%20database%20and%20Visualizing%20epigenomics%20with%20UCSC%20Genome%20Browser.pptx))
 - [ENCODE database](https://www.encodeproject.org/)
 - [UCSC Genome Browser](https://genome.ucsc.edu/)
   
