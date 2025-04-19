@@ -42,7 +42,8 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 [**05.1 Data visualization with R [Tuan Thanh] - 05/4/2025**](https://docs.google.com/presentation/d/1d8GIjCEl7dUh-BvDJ5GLbTSj7MlbhaAPmgiYpMFhGHQ/edit?usp=sharing)
 - [PPTX](https://github.com/luuloi/Epigenetics_2025/blob/main/Lecture_05/Data%20visualization%20with%20R.pptx)
 
-[**06.0 DNA methylation analysis with DMRcate [Thien/Hoang] - 12/4/2025**](Lecture_06/) 
+[**06.0 DNA methylation analysis with DMRcate [Thien/Hoang] - 12/4/2025**](Lecture_06/)
+- [Introduction to DMR](https://www.benlaufer.com/DMRichR/articles/DMRichR.html)
 - [Data - LINK1](https://drive.google.com/drive/u/0/folders/1HznXe7mWZP8O2UyuCKQ6P6wlZOGG3Tlk)
 - [Data.gz - LINK2](https://drive.google.com/drive/folders/1e20QN3gAxuhVtW8N4ACwzq06Y9elZZA5?usp=sharing)
 - 00.Install_packages: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1STyYmFZ9C2MXuZ-ukaRBX_dLP9iy5zTi?usp=sharing)
@@ -73,7 +74,14 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [ENCODE database](https://www.encodeproject.org/)
 - [UCSC Genome Browser](https://genome.ucsc.edu/)
   
-[**08.0 Mechanisms of epigenetic control during development [Loi] - 26/4/2025**](Lecture_08/) \
+[**08.0 Mechanisms of epigenetic control during development [Loi] - 26/4/2025**](Lecture_08/)
+
+***Epigenetics in Development***
+
+[***Epigenetic Basis for the Differentiation Potential of Mesenchymal and Embryonic Stem Cells***](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083288/)
+
+***Class Exercises***
+
 [**08.1 Mining Gene Expression GTEX and Epigenome Roadmap [Hung] - 26/4/2025**](Lecture_08/) 
 
 [**09.0 Epigenetics and Human Disease [Loi] - 03/5/2025**](Lecture_11/) \
