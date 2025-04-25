@@ -79,6 +79,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 ***Epigenetics in Development***
 
 - [Epigenetic Basis for the Differentiation Potential of Mesenchymal and Embryonic Stem Cells](https://pmc.ncbi.nlm.nih.gov/articles/PMC3083288/)
+- [Understanding the relationship between DNA methylation and histone lysine methylation](https://pmc.ncbi.nlm.nih.gov/articles/PMC4316174/)
 
 ***Class Exercises***
 - [Exercise 1. Explain the Figure 2 ](https://bmjopen.bmj.com/content/bmjopen/2/2/e000825/F2.large.jpg) [ in the paper](https://bmjopen.bmj.com/content/2/2/e000825)
