@@ -91,7 +91,9 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [NIH Epigenome Roadmap](https://egg2.wustl.edu/roadmap/web_portal/) [ and WashU Epigenome Browser](https://epigenomegateway.wustl.edu/)
 
 [**09.0 Epigenetics and Human Disease [Loi] - 03/5/2025**](Lecture_11/) \
-[**09.1 Mining BLUEPRINT and TCGA database [Hung] - 03/5/2025**](Lecture_11/) 
+[**09.1 Mining IHEC and TCGA database [Hung] - 03/5/2025**](Lecture_11/)
+- [IHEC Portal](https://epigenomesportal.ca/ihec/)
+- [TCGA](https://portal.gdc.cancer.gov/)
 
 [**10.0 Epigenetic Biomarkers and Epigenetic Therapy [Loi] - 10/5/2025**](Lecture_10/) \
 [**10.1 Course Review [Loi] - 24/5/2025**](Lecture_10/)
