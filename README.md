@@ -74,7 +74,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [ENCODE database](https://www.encodeproject.org/)
 - [UCSC Genome Browser](https://genome.ucsc.edu/)
   
-[**08.0 Mechanisms of epigenetic control during development [Loi] - 26/4/2025**](Lecture_08/)
+[**08.0 Mechanisms of epigenetic control during development [Loi] - 26/4/2025**](Lecture_08/Lecture_08_Epigenetics_Development_2025April26.pdf)
 
 ***Epigenetics in Development***
 
