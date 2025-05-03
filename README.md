@@ -98,6 +98,9 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [Pathogenesis of MeCP2 Disorders](https://www.youtube.com/watch?v=dATARGgk2IQ)
 - [Possible Future Therapies for Rett Syndrome](https://www.youtube.com/watch?v=TidhHWnVr0s)
 - [Mouse model](https://www.youtube.com/playlist?list=PLzLcLe4bAUoINUkmQtrUziSnEIkFziA4W)
+
+***Cancer Development and Metastasis***
+- [Dr. Thinh and Dr. Ngu lecturers](https://www.youtube.com/playlist?list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW)
   
 ***Class Exercises***
 - [Exercise 1. Explain the Figure 1 ](https://www.mdpi.com/2075-1729/12/4/502)
