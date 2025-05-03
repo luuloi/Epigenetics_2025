@@ -102,6 +102,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 ***Class Exercises***
 - [Exercise 1. Explain the Figure 1 ](https://www.mdpi.com/2075-1729/12/4/502)
 - [Exercise 2. Explain the Figure 1 to 5 in the paper](https://www.pnas.org/doi/10.1073/pnas.1505909112)
+- [Exercise 2. Explain the Figure 1 to 8 in the paper](https://www.nature.com/articles/s41467-018-07193-y)
 
 [**09.1 Mining IHEC and TCGA database [Hung] - 03/5/2025**](Lecture_11/)
 - [IHEC Portal](https://epigenomesportal.ca/ihec/)
