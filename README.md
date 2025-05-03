@@ -100,7 +100,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [Mouse model](https://www.youtube.com/playlist?list=PLzLcLe4bAUoINUkmQtrUziSnEIkFziA4W)
 
 ***Cancer Development and Metastasis***
-- [Dr. Thinh and Dr. Ngu lecturers](https://www.youtube.com/playlist?list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW)
+- [Dr. Thinh and Dr. Ngu lectures](https://www.youtube.com/playlist?list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW)
   
 ***Class Exercises***
 - [Exercise 1. Explain the Figure 1 ](https://www.mdpi.com/2075-1729/12/4/502)
