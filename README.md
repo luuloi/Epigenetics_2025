@@ -90,7 +90,19 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [GTEx Portal](https://www.gtexportal.org/home/)
 - [NIH Epigenome Roadmap](https://egg2.wustl.edu/roadmap/web_portal/) [ and WashU Epigenome Browser](https://epigenomegateway.wustl.edu/)
 
-[**09.0 Epigenetics and Human Disease [Loi] - 03/5/2025**](Lecture_11/) \
+[**09.0 Epigenetics and Human Disease [Loi] - 03/5/2025**](Lecture_11/Lecture_09_Epigenetics_a_Human_Disease_2025May03.pdf)
+
+***From Rett Syndrome to Epigenetic Disease***
+- [How Mutations in the MECP2 Gene Cause Rett Syndrome](https://www.youtube.com/watch?v=eTzfA5_CdXg)
+- [Rett Syndrome: Genomes, Epigenomes and Neuropsychiatric](https://www.youtube.com/watch?v=-mKHhPb1q9Q)
+- [Pathogenesis of MeCP2 Disorders](https://www.youtube.com/watch?v=dATARGgk2IQ)
+- [Possible Future Therapies for Rett Syndrome](https://www.youtube.com/watch?v=TidhHWnVr0s)
+- [Mouse model](https://www.youtube.com/playlist?list=PLzLcLe4bAUoINUkmQtrUziSnEIkFziA4W)
+  
+***Class Exercises***
+- [Exercise 1. Explain the Figure 1 ](https://www.mdpi.com/2075-1729/12/4/502)
+- [Exercise 2. Explain the Figure 1 to 5 in the paper](https://www.pnas.org/doi/10.1073/pnas.1505909112)
+
 [**09.1 Mining IHEC and TCGA database [Hung] - 03/5/2025**](Lecture_11/)
 - [IHEC Portal](https://epigenomesportal.ca/ihec/)
 - [TCGA](https://portal.gdc.cancer.gov/)
