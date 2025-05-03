@@ -90,7 +90,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [GTEx Portal](https://www.gtexportal.org/home/)
 - [NIH Epigenome Roadmap](https://egg2.wustl.edu/roadmap/web_portal/) [ and WashU Epigenome Browser](https://epigenomegateway.wustl.edu/)
 
-[**09.0 Epigenetics and Human Disease [Loi] - 03/5/2025**](Lecture_11/Lecture_09_Epigenetics_a_Human_Disease_2025May03.pdf)
+[**09.0 Epigenetics and Human Disease [Loi] - 03/5/2025**](Lecture_09/Lecture_09_Epigenetics_a_Human_Disease_2025May03.pdf)
 
 ***From Rett Syndrome to Epigenetic Disease***
 - [How Mutations in the MECP2 Gene Cause Rett Syndrome](https://www.youtube.com/watch?v=eTzfA5_CdXg)
@@ -106,10 +106,10 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [Exercise 4. Explain the Figure 1 and 2 in the paper](https://www.mdpi.com/1422-0067/22/19/10375)
 
 ***Home Reading***
--[Role of Epigenetics in Neural Differentiation:Implications for Health and Disease]()
--[Molecular genetics of Rett syndrome: when DNA methylation goes unrecognized]()
+- [Role of Epigenetics in Neural Differentiation:Implications for Health and Disease](Lecture_09/2013-ToraoEG-FragaMF-Neuraldifferentiation.pdf)
+- [Molecular genetics of Rett syndrome: when DNA methylation goes unrecognized](Lecture_09/bienvenu2006.pdf)
 
-[**09.1 Mining IHEC and TCGA database [Hung] - 03/5/2025**](Lecture_11/)
+[**09.1 Mining IHEC and TCGA database [Hung] - 03/5/2025**](Lecture_9/)
 - [IHEC Portal](https://epigenomesportal.ca/ihec/)
 - [TCGA](https://portal.gdc.cancer.gov/)
 
