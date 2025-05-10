@@ -117,7 +117,7 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 - [IHEC Portal](https://epigenomesportal.ca/ihec/)
 - [TCGA](https://portal.gdc.cancer.gov/)
 
-[**10.0 Epigenetic Biomarkers and Epigenetic Therapy [Loi] - 10/5/2025**](Lecture_10/Lecture_10_Epigenetic_Biomarker_and_Therapy_2025May10.pdf)
+[**10.0 Epigenetic Biomarkers and Therapy [Loi] - 10/5/2025**](Lecture_10/Lecture_10_Epigenetic_Biomarker_and_Therapy_2025May10.pdf)
 - [PDF](Lecture_10/Lecture_10_Epigenetic_Biomarker_and_Therapy_2025May10.pdf)
   
 [**10.1 Course Review [Loi] - 10/5/2025**](Lecture_10/)
