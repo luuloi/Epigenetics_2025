@@ -127,6 +127,8 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 [**10.2 Bulk RNA-seq vs DNA-seq Analysis - 10/5/2025**](Lecture_10/Bulk_RNA-seq_vs_DNA-seq_Analysis_2025May10.pdf)
 
 [**10.3 cBioPortal [Hung] - 10/5/2025**](https://www.cbioportal.org/)
+- [cBioPortal Tutorial Series](https://www.youtube.com/watch?v=8VJY6Sq9ODk&list=PLWNp6Z5dXDZ7yRyny8aypSwrArs6e0EJi&index=3)
+- [cBioPortal How To Video](https://www.youtube.com/playlist?list=PLE2tjlUyHL8Fj1OOlvMepnLNqimTCLlyx)
 
 [**11. Mechanisms of epigenetic control in plant I [Nguyen] - 17/5/2025**](Lecture_11/)
 
