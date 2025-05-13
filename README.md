@@ -89,7 +89,9 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 
 [**08.1 Mining Gene Expression GTEX and Epigenome Roadmap [Hung] - 26/4/2025**](Lecture_08/)
 - [GTEx Portal](https://www.gtexportal.org/home/)
+  [Video](https://www.youtube.com/playlist?list=PLlMMtlgw6qNhuZZsEEy_xpj4HioUB2fNG)
 - [NIH Epigenome Roadmap](https://egg2.wustl.edu/roadmap/web_portal/) [ and WashU Epigenome Browser](https://epigenomegateway.wustl.edu/)
+  [Video](https://www.youtube.com/watch?v=KnUew_HyA44&t=7s)
 
 [**09.0 Epigenetics and Human Disease [Loi] - 03/5/2025**](Lecture_09/Lecture_09_Epigenetics_a_Human_Disease_2025May03.pdf)
 
@@ -115,7 +117,9 @@ Here is BAM files and gene regions for chr19. Please download these datasets and
 
 [**09.1 Mining IHEC and TCGA database [Hung] - 03/5/2025**](Lecture_9/)
 - [IHEC Portal](https://epigenomesportal.ca/ihec/)
+  [Video](https://www.youtube.com/playlist?list=PLFqsgmkN18uGy-_wlyWx7Ccjuva3ArWQj)
 - [TCGA](https://portal.gdc.cancer.gov/)
+  [Video](https://www.youtube.com/watch?v=lBLiG9OyBXM&list=PLCQx4mwID7jvTGMBpTdye4RF4P1eD48jz)
 
 [**10.0 Epigenetic Biomarkers and Therapy [Loi] - 10/5/2025**](Lecture_10/Lecture_10_Epigenetic_Biomarker_and_Therapy_2025May10.pdf)
 - [PDF](Lecture_10/Lecture_10_Epigenetic_Biomarker_and_Therapy_2025May10.pdf)
